@@ -1,0 +1,14 @@
+input, textarea{
+    width: 50%;
+    margin: 20px;
+    border: 1px solid #ccc;
+}
+button, a{
+    margin: 20px;
+    border: 1px solid #ccc;
+    width: 100px;
+    
+}
+button, a:hover{
+    transition: all .5s ease-in-out;
+}
